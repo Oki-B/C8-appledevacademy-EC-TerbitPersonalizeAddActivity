@@ -11,7 +11,9 @@ import SwiftUI
 struct TerbitApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            let routine = RoutineModel()
+            ManageRoutineView(routine: routine)
         }
+        .modelContainer(for: [RoutineModel.self, RoutineActivityModel.self])
     }
 }

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "clock.badge.checkmark.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

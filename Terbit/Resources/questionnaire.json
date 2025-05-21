@@ -1,0 +1,48 @@
+[
+  {
+    "question": "How does your body feel right now?",
+    "answers": [
+      { "text": "I feel stiff or low energy.", "category": "Physical" },
+      { "text": "Pretty calm, but a little distracted.", "category": "Mindfulness" },
+      { "text": "I feel isolated and want connection.", "category": "Social" },
+      { "text": "Overwhelmed by digital clutter or distractions.", "category": "Screentime" }
+    ]
+  },
+  {
+    "question": "What kind of break sounds most appealing right now?",
+    "answers": [
+      { "text": "A short walk or light stretching.", "category": "Physical" },
+      { "text": "A moment of calm to breathe or meditate.", "category": "Mindfulness" },
+      { "text": "A quick chat or message with a friend.", "category": "Social" },
+      { "text": "Turning off notifications and clearing my screen.", "category": "Screentime" }
+    ]
+  },
+  {
+    "question": "Which activity usually recharges your focus best?",
+    "answers": [
+      { "text": "Moving my body or doing something active.", "category": "Physical" },
+      { "text": "Journaling or doing something reflective.", "category": "Mindfulness" },
+      { "text": "Laughing or spending time with people I care about.", "category": "Social" },
+      { "text": "Organizing my digital space or decluttering.", "category": "Screentime" }
+    ]
+  },
+  {
+    "question": "How do you usually feel after working for a long time?",
+    "answers": [
+      { "text": "Tense or physically tired.", "category": "Physical" },
+      { "text": "Mentally scattered or foggy.", "category": "Mindfulness" },
+      { "text": "Disconnected or lonely.", "category": "Social" },
+      { "text": "Glued to screens and overstimulated.", "category": "Screentime" }
+    ]
+  },
+  {
+    "question": "If you had 10 free minutes right now, what would you do?",
+    "answers": [
+      { "text": "Stretch, move, or go outside.", "category": "Physical" },
+      { "text": "Breathe deeply or do a short meditation.", "category": "Mindfulness" },
+      { "text": "Call or message someone I miss.", "category": "Social" },
+      { "text": "Unplug and sit quietly without screens.", "category": "Screentime" }
+    ]
+  }
+]
+

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "apps.iphone.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
